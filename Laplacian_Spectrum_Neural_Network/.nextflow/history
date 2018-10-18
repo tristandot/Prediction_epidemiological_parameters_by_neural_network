@@ -1,0 +1,40 @@
+2018-07-07 20:37:18	1m 30s	tender_montalcini	ERR	227653cf67095ff0126af1874896dc94	bbfb1618-4d97-47f6-9a75-78dba135e8b9	nextflow nextflow_construction.nf
+2018-07-07 20:42:01	29.1s	ridiculous_keller	ERR	2223b58c70620684520ab8e24ece8a6d	af8a7bd0-6d73-42f8-840c-595bf0334188	nextflow nextflow_construction.nf
+2018-07-07 20:50:17	50.3s	voluminous_newton	ERR	2223b58c70620684520ab8e24ece8a6d	4ea47358-2416-4735-a153-e285380e355c	nextflow nextflow_construction.nf
+2018-07-07 21:04:55	-	desperate_carlsson	-	2223b58c70620684520ab8e24ece8a6d	ad0725e1-e41e-4b5f-937f-f96a90d5e837	nextflow nextflow_construction.nf
+2018-07-07 21:11:55	27s	confident_lamport	ERR	5863ed58173fb84993d2b53bc8f7cc8c	285669eb-5474-49e5-81cf-bb45b9c65224	nextflow nextflow_construction.nf
+2018-07-08 00:44:21	17.3s	gloomy_ekeblad	ERR	80c1ec3ddfdae4478f40c2538357175e	f5322eff-0b67-4698-b843-825dc7c17ad4	nextflow nextflow_construction.nf
+2018-07-08 00:45:35	6.5s	small_dalembert	ERR	80c1ec3ddfdae4478f40c2538357175e	f5322eff-0b67-4698-b843-825dc7c17ad4	nextflow nextflow_construction.nf -resume
+2018-07-08 00:46:54	6.5s	shrivelled_fermi	ERR	80c1ec3ddfdae4478f40c2538357175e	f5322eff-0b67-4698-b843-825dc7c17ad4	nextflow nextflow_construction.nf -resume
+2018-07-08 00:48:45	7s	sad_waddington	ERR	80c1ec3ddfdae4478f40c2538357175e	f5322eff-0b67-4698-b843-825dc7c17ad4	nextflow nextflow_construction.nf -resume
+2018-07-08 01:03:02	37.9s	sharp_descartes	ERR	80c1ec3ddfdae4478f40c2538357175e	f5322eff-0b67-4698-b843-825dc7c17ad4	nextflow nextflow_construction.nf -resume
+2018-07-08 01:06:18	31.3s	stoic_mestorf	ERR	80c1ec3ddfdae4478f40c2538357175e	f5322eff-0b67-4698-b843-825dc7c17ad4	nextflow nextflow_construction.nf -resume
+2018-07-08 02:02:35	1m 34s	silly_aryabhata	ERR	aad607df6cf2ff174e2fa9ea960db9f6	d65d0e0c-183c-421d-851f-eeac7f4e9eb6	nextflow nextflow_construction.nf
+2018-07-08 02:07:15	4m 9s	scruffy_shirley	ERR	2c411972b893ed4872ea18e1a8577687	057d0b5c-970f-4b76-8f09-19177140b909	nextflow nextflow_construction.nf
+2018-07-08 03:34:07	3m 24s	jolly_mendel	ERR	2c411972b893ed4872ea18e1a8577687	a3936057-f865-4d4a-9fea-50f34fe38ab9	nextflow nextflow_construction.nf
+2018-07-09 11:45:29	1m 2s	tiny_bhaskara	ERR	4be7cf93ec57d9cf3a6d775813ebf3b6	bc6900c7-d89e-4961-852c-1bf14f1db035	nextflow nextflow_construction.nf
+2018-07-09 11:58:01	5m 19s	lonely_mccarthy	ERR	39dba840edffa96db03c9f961c2afa28	67b260c4-3946-473e-8527-c17119d00910	nextflow nextflow_construction.nf
+2018-07-09 12:06:46	30.1s	shrivelled_stone	ERR	678a4aa44bfd6bd3e0050e36fcf7f8c2	ba8a61f7-cd21-4ab9-bc01-ba29dc5919e3	nextflow nextflow_construction.nf
+2018-07-09 12:11:26	1m 2s	cheeky_tuckerman	ERR	678a4aa44bfd6bd3e0050e36fcf7f8c2	4a87879b-2819-4bda-9629-249065dd8688	nextflow nextflow_construction.nf
+2018-07-09 12:30:46	1m 32s	naughty_einstein	OK	678a4aa44bfd6bd3e0050e36fcf7f8c2	fd240d42-b950-4a66-bc4e-92a64d1bd475	nextflow nextflow_construction.nf
+2018-07-09 12:47:21	11.8s	sad_hopper	ERR	e4ff2717f7ec0122bf7092e75857d667	8a550a8c-63e9-46d5-9bdf-28b9b42e9a39	nextflow nextflow_construction.nf
+2018-07-09 12:49:11	-	festering_cajal	-	60282d33b342c84ce4f7923d9b267e50	e0324143-14e6-429d-be0c-cbdb54a6135e	nextflow nextflow_construction.nf
+2018-07-09 12:49:56	6m 18s	nostalgic_goldberg	ERR	5e0cee63c32ae7ac8670c9c2d4740183	9fd6cab1-d5e7-4a63-a239-7fbd157fdc21	nextflow nextflow_construction.nf
+2018-07-09 13:50:19	8m 29s	drunk_thompson	ERR	16351c1464c92442504e87d8c6e19300	99ceddfa-d4b2-4d1c-8af5-cb8d6bc5e881	nextflow nextflow_construction.nf
+2018-07-09 14:26:04	34m 49s	festering_cori	OK	188c35e25ebcab2be81f5c36bd76dca7	f8a72a2a-c0c3-4c68-9345-6d1c799a37de	nextflow nextflow_construction.nf
+2018-07-09 15:03:19	49.7s	hopeful_solvay	ERR	50a691f22db33f42d56e0f12f56a6e1e	45193940-d2f4-4880-ba0e-9d66c8a71fa8	nextflow nextflow_construction.nf
+2018-07-09 15:09:07	-	crazy_turing	-	50a691f22db33f42d56e0f12f56a6e1e	6fb9169d-cfec-4a3a-9a7b-32700568446f	nextflow nextflow_construction.nf
+2018-07-09 15:33:26	25m 26s	sick_hypatia	ERR	188c35e25ebcab2be81f5c36bd76dca7	dc8d1017-36c6-419b-ae77-4513622d8afe	nextflow nextflow_construction.nf
+2018-07-09 16:32:47	32m 20s	tiny_wright	ERR	50a691f22db33f42d56e0f12f56a6e1e	9d71637c-2708-40ef-b071-766d5fc6bed7	nextflow nextflow_construction.nf
+2018-07-09 17:05:54	1m 37s	compassionate_cori	ERR	50a691f22db33f42d56e0f12f56a6e1e	87290a96-3973-440b-9790-a311edcbc0fc	nextflow nextflow_construction.nf
+2018-07-09 17:31:55	10m	grave_engelbart	ERR	16351c1464c92442504e87d8c6e19300	eb10dbc9-1bdb-4b32-a0f4-2640cce3c915	nextflow nextflow_construction.nf
+2018-07-09 18:08:47	3m 37s	silly_marconi	ERR	16351c1464c92442504e87d8c6e19300	d240d013-1733-4358-9132-b0d29ca451d5	nextflow nextflow_construction.nf
+2018-07-09 18:16:06	-	shrivelled_torvalds	-	16351c1464c92442504e87d8c6e19300	f0eaf16d-a9aa-4443-8245-f1f4995fb5f1	nextflow nextflow_construction.nf
+2018-07-09 18:27:33	10m 23s	mighty_swanson	ERR	16351c1464c92442504e87d8c6e19300	f0eaf16d-a9aa-4443-8245-f1f4995fb5f1	nextflow nextflow_construction.nf -resume
+2018-07-09 18:40:37	51.4s	clever_lavoisier	ERR	ca42e2e0471912af62d499c6bec58ada	a31f386a-b6b0-4cb7-bf4d-13b3b1fc4966	nextflow nextflow_construction.nf
+2018-07-09 18:42:48	-	stupefied_brattain	-	faf507229029e9a72b5c39f81e49a397	567a43f7-5609-4fd9-9bff-51412e646b6d	nextflow nextflow_construction.nf
+2018-07-10 10:58:18	17m 18s	astonishing_carson	OK	faf507229029e9a72b5c39f81e49a397	567a43f7-5609-4fd9-9bff-51412e646b6d	nextflow nextflow_construction.nf -resume
+2018-07-10 12:29:36	11m	gloomy_dijkstra	ERR	faf507229029e9a72b5c39f81e49a397	509aef80-9572-418e-9085-1cfda57c93e4	nextflow nextflow_construction.nf
+2018-07-10 14:05:41	2m 57s	astonishing_goldwasser	OK	f1beea87fe3d190eeebb57f1fd18bd00	51d860f6-6097-4e0e-96e2-de04cc43a1e9	nextflow nextflow_construction.nf
+2018-07-10 14:16:48	6m 22s	distraught_avogadro	OK	f1beea87fe3d190eeebb57f1fd18bd00	f031e3b7-bf70-48f2-a40a-cd49e6a9e7fe	nextflow nextflow_construction.nf
+2018-07-10 14:34:25	1m 7s	boring_jones	ERR	38032003e35e6d6668f57b503e9f66b3	2583a251-3f24-41e1-b3e9-4e61869d13e0	nextflow nextflow_construction.nf
