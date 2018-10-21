@@ -18,12 +18,12 @@ while (i < length(tmpArgs))
 parameters<- paste0(args["parameters"])
 
 
-datalala <- read.table(file=parameters, sep="\t", quote="", comment.char="")
+data <- read.table(file=parameters, sep="\t", quote="", comment.char="")
 
-names(datalala) <- as.character(unlist(datalala[1,]))
-datalala <- datalala[-1,]
-datalala <- datalala[,-1]
-rownames(datalala) <- 1:nrow(datalala)
+names(data) <- as.character(unlist(data[1,]))
+data <- data[-1,]
+data <- data[,-1]
+rownames(data) <- 1:nrow(data)
 
 
-write.csv(datalala)
+write.csv(data)
